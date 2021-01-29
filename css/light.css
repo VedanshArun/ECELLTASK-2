@@ -38,30 +38,6 @@ html{
     margin-top: 15px;
     height: 70px;
 }
-
-.a {
-    text-decoration : none;
-    color : #fff;
-}
-.a:link{
-    text-decoration : none;
-    color : #fff;
-}
-
-.a:visited {
-    text-decoration : none;
-    color : #fff;
-}
-
-.a:hover {
-    text-decoration : none;
-    color : #fff;
-}
-
-.a:active{
-    text-decoration : none;
-    color : #fff;
-}
 nav ul{
     position: relative;
     margin-left: 270px;
@@ -207,6 +183,30 @@ input:checked + .slider:before {
     background-color: #222;
     padding: 17px 60px;
     margin: 0 auto;
+}
+
+.a {
+    text-decoration : none;
+    color : #fff;
+}
+.a:link{
+    text-decoration : none;
+    color : #fff;
+}
+
+.a:visited {
+    text-decoration : none;
+    color : #fff;
+}
+
+.a:hover {
+    text-decoration : none;
+    color : #fff;
+}
+
+.a:active{
+    text-decoration : none;
+    color : #fff;
 }
 
 .head-btn span {
