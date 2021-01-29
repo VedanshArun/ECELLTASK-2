@@ -185,29 +185,10 @@ input:checked + .slider:before {
     margin: 0 auto;
 }
 
-.a {
+.head-btn a:link a:visited a:hover {
     text-decoration : none;
-    color : #fff;
-}
-.a:link{
-    text-decoration : none;
-    color : #fff;
-}
+ }
 
-.a:visited {
-    text-decoration : none;
-    color : #fff;
-}
-
-.a:hover {
-    text-decoration : none;
-    color : #fff;
-}
-
-.a:active{
-    text-decoration : none;
-    color : #fff;
-}
 
 .head-btn span {
     position: relative;
