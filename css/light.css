@@ -39,6 +39,19 @@ html{
     height: 70px;
 }
 
+.a {
+    text-decoration : none;
+    color : #fff;
+}
+
+.a:visited {
+    text-decoration : none;
+    color : #fff;
+}
+.a:hover {
+    text-decoration : none;
+    color:#fff;
+}
 nav ul{
     position: relative;
     margin-left: 270px;
