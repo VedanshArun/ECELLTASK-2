@@ -43,19 +43,24 @@ html{
     text-decoration : none;
     color : #fff;
 }
+.a:link{
+    text-decoration : none;
+    color : #fff;
+}
 
 .a:visited {
     text-decoration : none;
     color : #fff;
 }
+
 .a:hover {
     text-decoration : none;
-    color:#fff;
+    color : #fff;
 }
-.a:active {
-    text-decoration : none;
-    color: #fff;
-    
+
+.a:active{
+    texxt-decoration : none;
+    color : #fff;
 }
 nav ul{
     position: relative;
