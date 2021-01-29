@@ -49,6 +49,11 @@ html{
     color:#fff;
 }
 
+.a:active {
+    text-decoration : none;
+    color : #fff;
+}
+
 .logo{
     margin-top: 15px;
     height: 70px;
