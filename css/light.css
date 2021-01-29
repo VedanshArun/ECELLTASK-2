@@ -53,6 +53,7 @@ html{
     color:#fff;
 }
 .a:active {
+    text-decoration : none;
     color: #fff;
     
 }
